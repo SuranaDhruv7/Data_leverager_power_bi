@@ -6,7 +6,7 @@ This Power BI project (`Project1.pbix`) is a comprehensive, interactive data vis
 
 ---
 
-## ⏱️ Time Taken
+## Description
 
 | Phase                     | Description                                            |
 |--------------------------|---------------------------------------------------------|
