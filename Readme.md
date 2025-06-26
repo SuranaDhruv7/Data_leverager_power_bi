@@ -4,10 +4,6 @@
 
 This Power BI project (`Project1.pbix`) is a comprehensive, interactive data visualization report built to deliver deep insights through elegant design, smart data modeling, and advanced DAX measures. The dashboard is crafted with meticulous attention to detail, emphasizing usability, storytelling, and interactivity.
 
-## Screenshot
-
-![Dashboard Screenshot](Image/ss.png)
-
 ---
 
 ## ⏱️ Time Taken
